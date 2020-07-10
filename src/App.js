@@ -120,7 +120,7 @@ function App() {
 					</div>
 					<div className="right-section">
 						<p>
-							I'm Thi, a self-taught developer specializing in full-stack development with a passion in creating applications that are. There is a ton of room for creativity
+							I'm Thi, a self-taught developer specializing in full-stack development with a passion in creating applications that brings a positive impact to people's life. There is a ton of room for creativity
 							in this field and i get excited about the technical aspect of this field where i get to constantly learn new frameworks and tools that come out to further explore
 							and help improve my existing knowledge. Here are some of the projects that i have worked on below.
 						</p>
