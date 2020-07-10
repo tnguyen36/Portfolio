@@ -96,6 +96,7 @@ const particlesOptions = {
   }
 
 function App() {
+	document.title = 'Thi Nguyen | Portfolio'
 	return (
     	<div>
 			<div className="header-section">			

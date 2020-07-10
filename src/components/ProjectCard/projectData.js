@@ -4,7 +4,7 @@ const projectData = [
         description: 'This is the very website you are seeing right now',
         image: 'portfolio.PNG',
         liveUrl: '/',
-        sourceUrl: '/'
+        sourceUrl: 'https://github.com/tnguyen36/Portfolio'
     },
     {
         name: 'Pantry Dashboard Application',
