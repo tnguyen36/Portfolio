@@ -116,7 +116,7 @@ function App() {
 				<h1 style={{textAlign:'center'}}>-- ABOUT ME --</h1>
 				<div className="content">				
 					<div className="left-section">
-					<img src="https://www.consignor.com/wp-content/uploads/2019/06/Senior-Front-End-Developer-1080x675.jpg" alt="profile" />
+					<img src="profile.jpg" alt="profile" />
 					</div>
 					<div className="right-section">
 						<p>
