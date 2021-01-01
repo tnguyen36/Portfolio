@@ -21,6 +21,13 @@ const projectData = [
         sourceUrl: 'https://github.com/tnguyen36/center_equity'
     },
     {
+        name: 'Restaurant Template Website',
+        description: 'A restuarant landing page with google sheet integration that allows employees to easily change the content of their menu as well as seeing details of incoming pickup orders. Use of graphql in creating queries for read/write on a google sheet',
+        image: 'royalthi.PNG',
+        liveUrl: 'https://royal-thi.herokuapp.com/',
+        sourceUrl: 'https://github.com/tnguyen36/Checkers-Board-Game'
+    },
+    {
         name: 'Checkers Board Game',
         description: 'A popular board game built with react and PWA (Progressive Web App) for offline capabilities. It is simple but utilizes the core concepts of react such as managing state, creating reusable components, and passing props down',
         image: 'checkers.PNG',
