@@ -1,0 +1,103 @@
+.skill-box {
+    background-color: rgb(244, 247, 246);
+    margin: 10px;
+    padding: 20px 0px;
+  }
+
+.skill-box:hover {
+    color: white;
+    background-color: rgba(35, 39, 65, 0.8);
+    transition: all 0.3s ease-in 0s;
+    cursor: pointer;
+
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+.skill-section a {
+    display: contents;
+}
+
+.skill-box img {
+    width: 30%;
+}
+
+.skill-section .content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+  }
+
+
+.html5-box {
+    filter: invert(36%) sepia(32%) saturate(2645%) hue-rotate(343deg) brightness(101%) contrast(94%);
+}
+
+
+.css3-box {
+    filter: invert(31%) sepia(67%) saturate(1375%) hue-rotate(179deg) brightness(97%) contrast(88%)
+}
+
+.javascript-box {
+    filter: invert(72%) sepia(100%) saturate(488%) hue-rotate(357deg) brightness(100%) contrast(106%);
+}
+
+.react-box {
+    filter: invert(75%) sepia(76%) saturate(521%) hue-rotate(162deg) brightness(96%) contrast(105%);
+}
+
+.redux-box {
+    filter: invert(29%) sepia(16%) saturate(5300%) hue-rotate(238deg) brightness(101%) contrast(85%);  
+}
+
+.nodejs-box {
+    filter: invert(42%) sepia(98%) saturate(376%) hue-rotate(71deg) brightness(94%) contrast(88%);
+}
+
+.mongodb-box {
+    filter: invert(57%) sepia(13%) saturate(1928%) hue-rotate(71deg) brightness(92%) contrast(88%);
+}
+
+.mysql-box {
+    filter: invert(44%) sepia(19%) saturate(1141%) hue-rotate(163deg) brightness(96%) contrast(93%);
+}
+
+.git-box {
+    filter: invert(71%) sepia(98%) saturate(6200%) hue-rotate(345deg) brightness(101%) contrast(88%);
+}
+
+.linux-box {
+    filter: invert(0%) sepia(3%) saturate(22%) hue-rotate(320deg) brightness(103%) contrast(100%);
+}
+
+.npm-box {
+    filter: invert(21%) sepia(88%) saturate(1874%) hue-rotate(340deg) brightness(108%) contrast(86%);
+}
+
+.jest-box {
+    filter: invert(18%) sepia(67%) saturate(4054%) hue-rotate(342deg) brightness(81%) contrast(103%);
+}
+
+@media only screen and (max-width: 600px) {
+    .skill-box {
+        width: 35%;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1200px) {
+    .skill-box {
+        width: 20%;
+        
+    }
+    /* .skill-box .content {
+        flex-direction: row;
+        padding-left: 0;
+        padding-right: 0;
+    } */
+
+
+}

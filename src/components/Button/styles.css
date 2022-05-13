@@ -1,0 +1,61 @@
+.button {
+    border-radius: 5%;
+    padding: 10px;
+    margin: 7px;
+    color: white;
+    letter-spacing: 2px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.button img {
+    vertical-align: middle;
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(125deg) brightness(103%) contrast(103%);
+    margin-right: 10px;
+
+}
+
+.resume-btn {
+    background: rgba(113, 168, 29, 0.521);
+    box-shadow: 0 0 5px rgba(113, 168, 29, 0.521),
+                0 0 25px rgba(113, 168, 29, 0.521),
+                0 0 50px rgba(113, 168, 29, 0.521),
+}
+
+.resume-btn:hover {
+    box-shadow: 0 0 5px rgba(113, 168, 29, 0.521),
+                0 0 25px rgba(113, 168, 29, 0.521),
+                0 0 50px rgba(113, 168, 29, 0.521),
+                0 0 50px rgba(113, 168, 29, 0.521)
+}
+
+.linkedin-btn {
+    background: #0077B5;
+    box-shadow: 0 0 5px #0077B5,
+                0 0 25px #0077B5,
+                0 0 50px #0077B5,
+}
+
+.linkedin-btn:hover {
+    box-shadow: 0 0 5px #0077B5,
+                0 0 25px #0077B5,
+                0 0 50px #0077B5,
+                0 0 50px #0077B5
+}
+
+.github-btn {
+    /* background: #181717; */
+    background: #181717;
+    box-shadow: 0 0 5px #181717,
+                0 0 25px #181717,
+                0 0 50px #181717,               
+}
+
+.github-btn:hover {
+    box-shadow: 0 0 5px #181717,
+                0 0 25px #181717,
+                0 0 50px #181717,
+                0 0 50px #181717       
+}
+
